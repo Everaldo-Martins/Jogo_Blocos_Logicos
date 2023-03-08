@@ -4,5 +4,5 @@ Jogo desenvolvido como parte de trabalho da disciplina de Orientação a Objetos
 
 Game developed as part of the work of the Object Orientation course at the Instituto Federal da Paraíba (IFPB).
 
-# Projeto
+# Projeto UML
 ![Calculadora](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Jogo.jpg)
