@@ -6,8 +6,8 @@
 
 ## Imagens do jogo em funcionemanto.
 
-![GameStart](./essets/img/GameStart.png | width=400) 
-![GameOnPlay](./essets/img/GameOnPlay.png | width=400)
+![GameStart](./essets/img/GameStart.png){: width="50%"}
+![GameOnPlay](./essets/img/GameOnPlay.png){: width="50%"}
 
 ## Projeto UML
 ![UML Jogo](./essets/img/Jogo_UML.png)
