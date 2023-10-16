@@ -12,8 +12,8 @@ public class Triangulo extends Formas {
 		super();
 	}
 
-	public Triangulo(String nome, String cor, double id, double base, double altura) {
-		super(nome, cor, id);
+	public Triangulo(int id, String nome, String cor, double base, double altura) {
+		super(id, nome, cor);
 		this.base = base;
 		this.altura = altura;
 	}

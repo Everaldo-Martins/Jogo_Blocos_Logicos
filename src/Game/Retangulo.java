@@ -12,8 +12,8 @@ public class Retangulo extends Formas {
 		super();
 	}
 
-	public Retangulo(String nome, String cor, double id, double base, double altura) {
-		super(nome, cor, id);
+	public Retangulo(int id, String nome, String cor, double base, double altura) {
+		super(id, nome, cor);
 		this.base = base;
 		this.altura = altura;
 	}

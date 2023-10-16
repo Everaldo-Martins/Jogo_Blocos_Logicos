@@ -10,8 +10,8 @@ public class Quadrado extends Formas {
 		super();		
 	}
 
-	public Quadrado(String nome, String cor, double id, double base) {
-		super(nome, cor, id);
+	public Quadrado(int id, String nome, String cor, double base) {
+		super(id, nome, cor);
 		this.base = base;
 	}
 

@@ -11,8 +11,8 @@ public class Circulo extends Formas {
 		super();
 	}
 
-	public Circulo(String nome, String cor, double id, double raio) {
-		super(nome, cor, id);
+	public Circulo(int id, String nome, String cor, double raio) {
+		super(id, nome, cor);
 		this.raio = raio;
 	}
 

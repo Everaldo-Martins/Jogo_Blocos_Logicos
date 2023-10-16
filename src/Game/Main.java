@@ -7,25 +7,25 @@ import java.util.concurrent.TimeUnit;
 public class Main {
 	public static void main(String[] args) {
 		
-		Circulo c = new Circulo("Circulo", "Vermelho", 0, 1);
-		Quadrado q = new Quadrado("Quadrado", "Verde", 1, 3);
-		Triangulo t = new Triangulo("Triangulo", "Amarelo", 2, 3, 5);
-		Retangulo r = new Retangulo("Retangulo", "Azul", 3, 3, 5);
+		Circulo c = new Circulo(0, "Circulo", "Vermelho", 1);
+		Quadrado q = new Quadrado(1, "Quadrado", "Verde", 3);
+		Triangulo t = new Triangulo(2, "Triangulo", "Amarelo", 3, 5);
+		Retangulo r = new Retangulo(3, "Retangulo", "Azul", 3, 5);
 
-		Circulo cm = new Circulo("Circulo", "Vermelho", 4, 2);
-		Quadrado qm = new Quadrado("Quadrado", "Verde", 5, 6);
-		Triangulo tm = new Triangulo("Triangulo", "Amarelo", 6, 6, 10);
-		Retangulo rm = new Retangulo("Retangulo", "Azul", 7, 6, 10);
+		Circulo cm = new Circulo(4, "Circulo", "Vermelho", 2);
+		Quadrado qm = new Quadrado(5, "Quadrado", "Verde", 6);
+		Triangulo tm = new Triangulo(6, "Triangulo", "Amarelo", 6, 10);
+		Retangulo rm = new Retangulo(7, "Retangulo", "Azul", 6, 10);
 		
-		Circulo ec = new Circulo("Circulo", "Laranja", 8, 1);
-		Quadrado eq = new Quadrado("Quadrado", "Laranja", 9, 3);
-		Triangulo et = new Triangulo("Triangulo", "Laranja", 10, 3, 5);
-		Retangulo er = new Retangulo("Retangulo", "Laranja", 11, 3, 5);
+		Circulo ec = new Circulo(8, "Circulo", "Laranja", 1);
+		Quadrado eq = new Quadrado(9, "Quadrado", "Laranja", 3);
+		Triangulo et = new Triangulo(10, "Triangulo", "Laranja", 3, 5);
+		Retangulo er = new Retangulo(11, "Retangulo", "Laranja", 3, 5);
 		
-		Circulo ecm = new Circulo("Circulo", "Laranja", 12, 2);
-		Quadrado eqm = new Quadrado("Quadrado", "Laranja", 13, 6);
-		Triangulo etm = new Triangulo("Triangulo", "Laranja", 14, 6, 10);
-		Retangulo erm = new Retangulo("Retangulo", "Laranja", 15, 6, 10);
+		Circulo ecm = new Circulo(12, "Circulo", "Laranja", 2);
+		Quadrado eqm = new Quadrado(13, "Quadrado", "Laranja", 6);
+		Triangulo etm = new Triangulo(14, "Triangulo", "Laranja", 6, 10);
+		Retangulo erm = new Retangulo(15, "Retangulo", "Laranja", 6, 10);
 		
 		LinkedList<Formas> pecas = new LinkedList<>();
 
@@ -51,7 +51,7 @@ public class Main {
 
 		double area = eq.calcularArea() + eqm.calcularArea() + ec.calcularArea() + ecm.calcularArea() + et.calcularArea() + etm.calcularArea() + er.calcularArea() + erm.calcularArea();
 		
-		Tabuleiro tabuleiro = new Tabuleiro("Tabuleiro", "Laranja", 0, area, encaixes);
+		Tabuleiro tabuleiro = new Tabuleiro(0, "Tabuleiro", "Laranja", area, encaixes);
 
 		Jogo jogo = new Jogo(pecas, tabuleiro);
 		Scanner  input = new Scanner(System.in);

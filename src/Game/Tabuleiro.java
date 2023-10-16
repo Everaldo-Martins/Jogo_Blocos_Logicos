@@ -14,8 +14,8 @@ public class Tabuleiro extends Formas {
 		
 	}
 
-	public Tabuleiro(String nome, String cor, double id, double area, LinkedList<Formas> encaixes) {
-		super(nome, cor, id);
+	public Tabuleiro(int id, String nome, String cor, double area, LinkedList<Formas> encaixes) {
+		super(id, nome, cor);
 		this.area = area;
 		this.encaixes = encaixes;
 	}

@@ -1,9 +1,9 @@
 package Game;
 
 public class Formas implements IFormas {
+	protected int id;
 	protected String nome;
-	protected String cor;
-	protected double id;
+	protected String cor;	
 	
 	public double calcularArea() {
 		return 0;
@@ -13,11 +13,11 @@ public class Formas implements IFormas {
 		super();
 	}
 
-	public Formas(String nome, String cor, double id) {
+	public Formas(int id, String nome, String cor) {
 		super();
-		this.nome = nome;
-		this.cor = cor;
 		this.id = id;
+		this.nome = nome;
+		this.cor = cor;		
 	}
 
 	@Override
