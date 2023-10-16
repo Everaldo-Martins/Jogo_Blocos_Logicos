@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 	public static void main(String[] args) {
-		
+		//Peças
 		Circulo c = new Circulo(0, "Circulo", "Vermelho", 1);
 		Quadrado q = new Quadrado(1, "Quadrado", "Verde", 3);
 		Triangulo t = new Triangulo(2, "Triangulo", "Amarelo", 3, 5);
@@ -17,6 +17,7 @@ public class Main {
 		Triangulo tm = new Triangulo(6, "Triangulo", "Amarelo", 6, 10);
 		Retangulo rm = new Retangulo(7, "Retangulo", "Azul", 6, 10);
 		
+		//Encaixes
 		Circulo ec = new Circulo(8, "Circulo", "Laranja", 1);
 		Quadrado eq = new Quadrado(9, "Quadrado", "Laranja", 3);
 		Triangulo et = new Triangulo(10, "Triangulo", "Laranja", 3, 5);
