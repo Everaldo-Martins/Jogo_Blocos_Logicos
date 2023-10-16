@@ -4,9 +4,13 @@
 - Jogo desenvolvido como parte de trabalho da disciplina de Orientação a Objetos do Instituto Federal da Paraíba (IFPB).
 - Game developed as part of the work of the Object Orientation course at the Instituto Federal da Paraíba (IFPB).
 
+## Imagens do jogo em funcionemanto.
+
+![GameStart](./essets/img/GameStart.png) ![GameOnPlay](./essets/img/GameOnPlay.png)
+
 ## Projeto UML
-![UML Jogo](/Jogo_UML.png =400x)
+![UML Jogo](./essets/img/Jogo_UML.png)
 
 ## Imagem da inspiração do jogo
-![Bloco Inspiração do jogo](/Figura-Geometrica-Encaixe.jpg =400x)
+![Bloco Inspiração do jogo](./essets/img/Figura-Geometrica-Encaixe.jpg)
 
