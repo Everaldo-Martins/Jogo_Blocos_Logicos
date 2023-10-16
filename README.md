@@ -5,7 +5,7 @@ Jogo desenvolvido como parte de trabalho da disciplina de Orientação a Objetos
 Game developed as part of the work of the Object Orientation course at the Instituto Federal da Paraíba (IFPB).
 
 # Projeto UML
-![UML](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Jogo.jpg)
+![UML](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Jogo_UML.png)
 
 ## Imagem da inspiração do jogo
 ![Jogo](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Figura-Geometrica-Encaixe.jpg)
