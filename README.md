@@ -4,15 +4,11 @@
 - Game developed as part of the work of the Object Orientation course at the Instituto Federal da Paraíba (IFPB).
 
 ## Projeto UML
-<img src="https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Jogo_UML.png" alt="UML" title="UML Jogo">
+![UML Jogo](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Jogo_UML.png)
 
 ## Imagem da inspiração do jogo
-<img src="https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Figura-Geometrica-Encaixe.jpg" alt="Bloco Exemplo" title="Bloco Inspiração do jogo.">
+![Bloco Inspiração do jogo](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Figura-Geometrica-Encaixe.jpg)
 
-<style>    
-    img{
-        width: 100%;
-        max-width: 400px;
-        border: none;
-    }
-</style>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/Everaldo-Martins?style=social)
