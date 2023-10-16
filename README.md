@@ -6,25 +6,11 @@
 
 ## Imagens do jogo em funcionemanto.
 
-![GameStart](./essets/img/GameStart.png) 
-![GameOnPlay](./essets/img/GameOnPlay.png)
+![GameStart](./essets/img/GameStart.png | width=400) 
+![GameOnPlay](./essets/img/GameOnPlay.png | width=400)
 
 ## Projeto UML
 ![UML Jogo](./essets/img/Jogo_UML.png)
 
 ## Imagem da inspiração do jogo
 ![Bloco Inspiração do jogo](./essets/img/Figura-Geometrica-Encaixe.jpg)
-
-<style type="text/css">
-    img[alt="GameStart"] { 
-    max-width:  400px; 
-    display: block;
-    float:left;
-    }
-
-    img[alt="GameOnPlay"] { 
-    max-width:  400px; 
-    display: block;
-    }
-</style>
-
