@@ -15,14 +15,16 @@
 ## Imagem da inspiração do jogo
 ![Bloco Inspiração do jogo](./essets/img/Figura-Geometrica-Encaixe.jpg)
 
-img[alt="GameStart"] { 
-  max-width:  400px; 
-  display: block;
-  float:left;
-}
+<style>
+    img[alt="GameStart"] { 
+    max-width:  400px; 
+    display: block;
+    float:left;
+    }
 
-img[alt="GameOnPlay"] { 
-  max-width:  400px; 
-  display: block;
-}
+    img[alt="GameOnPlay"] { 
+    max-width:  400px; 
+    display: block;
+    }
+</style>
 
