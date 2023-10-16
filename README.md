@@ -1,4 +1,4 @@
-# Jogo Blocos Lógicos ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) ![GitHub Org's stars](https://img.shields.io/github/stars/Everaldo-Martins?style=social)
+# Jogo Blocos Lógicos <p style="text-align: right;">![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</p>
 
 - Jogo desenvolvido como parte de trabalho da disciplina de Orientação a Objetos do Instituto Federal da Paraíba (IFPB).
 - Game developed as part of the work of the Object Orientation course at the Instituto Federal da Paraíba (IFPB).
@@ -8,3 +8,5 @@
 
 ## Imagem da inspiração do jogo
 ![Bloco Inspiração do jogo](https://github.com/Everaldo-Martins/Jogo_Blocos_Logicos/blob/main/Figura-Geometrica-Encaixe.jpg)
+
+<p style="text-align: right;">![GitHub Org's stars](https://img.shields.io/github/stars/Everaldo-Martins?style=social)</p>
