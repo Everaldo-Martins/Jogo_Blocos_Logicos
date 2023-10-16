@@ -6,8 +6,8 @@
 
 ## Imagens do jogo em funcionemanto.
 
-<img alt="GameStart" src="./essets/img/GameStart.png" width="48%">
-<img alt="GameOnPlay" src="./essets/img/GameOnPlay.png" width="48%">
+<img alt="GameStart" src="./essets/img/GameStart.png" width="300px">
+<img alt="GameOnPlay" src="./essets/img/GameOnPlay.png" width="300px">
 
 ## Projeto UML
 <img alt="UML Jogo" src="./essets/img/Jogo_UML.png"  width="100%">
