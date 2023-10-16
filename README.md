@@ -15,7 +15,7 @@
 ## Imagem da inspiração do jogo
 ![Bloco Inspiração do jogo](./essets/img/Figura-Geometrica-Encaixe.jpg)
 
-<style>
+<style type="text/css">
     img[alt="GameStart"] { 
     max-width:  400px; 
     display: block;
