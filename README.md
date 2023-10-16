@@ -6,11 +6,11 @@
 
 ## Imagens do jogo em funcionemanto.
 
-<img alt="GameStart" src="./essets/img/GameStart.png" style="width: 50%; float: left">
-<img alt="GameOnPlay" src="./essets/img/GameOnPlay.png" style="width: 50%; float: right">
+<img alt="GameStart" src="./essets/img/GameStart.png" style="width: 48%; float: left">
+<img alt="GameOnPlay" src="./essets/img/GameOnPlay.png" style="width: 48%; float: right">
 
 ## Projeto UML
-![UML Jogo](./essets/img/Jogo_UML.png)
+<img alt="UML Jogo" src="./essets/img/Jogo_UML.png" style="max-width: 600px;">
 
 ## Imagem da inspiração do jogo
-![Bloco Inspiração do jogo](./essets/img/Figura-Geometrica-Encaixe.jpg)
+<img alt="Bloco Inspiração do jogo" src="./essets/img/Figura-Geometrica-Encaixe.jpg" style="max-width: 600px;">
